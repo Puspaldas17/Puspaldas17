@@ -5,6 +5,7 @@
 LinkedIn profile - www.linkedin.com/in/puspal-das-995933253
 - 😄 Pronouns: He/him
 - ⚡ Fun fact:Let's create something amazing together! 🚀
+-😎😎
 
 <!---
 Puspaldas17/Puspaldas17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
