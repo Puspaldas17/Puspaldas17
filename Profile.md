@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Puspaldas17 passionate coder eager to explore the world of programming.
-- 👀 I’m interested in into Java, honing my skills and building projects. 
-- 🌱 I’m currently into Java, honing my skills and building projects. 
+- 👀 I’m interested in into Java, learning my skills and building projects. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 LinkedIn profile - www.linkedin.com/in/puspal-das-995933253
